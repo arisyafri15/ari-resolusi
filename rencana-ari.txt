@@ -2,5 +2,9 @@ Rencana belajar:
  - belajar matematika
    * persamaan & pertidaksamaan linear 1 dan 2 variabel
    * geometri
+   * kalkulus
  - belajar kimia
+  * kimia dasar
+  * kimia terapan
  - belajar fisika
+ - memperdalam membaca buku
