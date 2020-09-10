@@ -1,8 +1,11 @@
 Rencana belajar:
  - belajar matematika
+   * dasar matematika
+   * persamaan & pertidaksamaan linear 1 dan 2 variabel
    * aljabar
    * geometri
    * kalkulus
+   * statistika
  - belajar kimia
   * mekanika kuantum
   * kimia dasar
@@ -10,3 +13,4 @@ Rencana belajar:
  - belajar fisika
   *fisika nuklir
  - memperdalam membaca buku
+  - sains populer
