@@ -1,6 +1,7 @@
 Ari resolusi 2020 :
 - belajar sains
-- paham matematika dasar
+- paham konsep matematika
 - menguasai python
 - bisa membuat website
 - paham ms office
+- paham dasar photoshop
