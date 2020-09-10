@@ -2,6 +2,9 @@ Rencana belajar:
  - belajar matematika
    * aljabar
    * geometri
+   * kalkulus
  - belajar kimia
+  * kimia dasar
+  * kimia terapan
  - belajar fisika
- - memperdala membaca buku
+ - memperdalam membaca buku
