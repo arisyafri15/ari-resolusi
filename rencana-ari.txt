@@ -1,7 +1,6 @@
 Rencana belajar:
  - belajar matematika
-   * aljabar
+   * persamaan & pertidaksamaan linear 1 dan 2 variabel
    * geometri
  - belajar kimia
  - belajar fisika
- - memperdala membaca buku
